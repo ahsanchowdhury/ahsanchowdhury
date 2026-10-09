@@ -34,8 +34,10 @@ I care about the details that make products easier to use, support teams easier 
 
 | Project | Focus |
 | --- | --- |
-| [Fluent Support Addition](https://github.com/ahsanchowdhury/fluentsupport-addition) | Fluent Support reporting, analytics, and support operations tools for WordPress |
 | [Fluent AI Agent](https://github.com/ahsanchowdhury/Fluent_AI_Agent) | AI-assisted support agent experiment |
+| [Fluent Support REST API Docs](https://github.com/ahsanchowdhury/fluentsupport-rest-api-docs) | Versioned REST API reference and integration examples for Fluent Support |
+| [Fluent Support Addition](https://github.com/ahsanchowdhury/fluentsupport-addition) | Fluent Support reporting, analytics, and support operations tools for WordPress |
+| [Ahsanchowdhury](https://github.com/ahsanchowdhury/ahsanchowdhury) | Personal profile, projects, and experiments |
 
 ## Currently
 
