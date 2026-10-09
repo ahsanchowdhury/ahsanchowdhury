@@ -34,6 +34,7 @@ I care about the details that make products easier to use, support teams easier 
 
 | Project | Focus |
 | --- | --- |
+| [Fluent Support Addition](https://github.com/ahsanchowdhury/fluentsupport-addition) | Fluent Support reporting, analytics, and support operations tools for WordPress |
 | [Test Portfolio](https://github.com/ahsanchowdhury/test-portfolio) | Personal web experience and front-end practice |
 | [Leaderboard](https://github.com/ahsanchowdhury/leaderboard) | Interface and interaction practice |
 | [Assignment 2](https://github.com/ahsanchowdhury/assignment-2) | Structured HTML project |
